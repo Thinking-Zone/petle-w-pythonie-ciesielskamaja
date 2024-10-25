@@ -1,2 +1,1 @@
-for liczba in range (0,9999):
-    print(liczba)
+print ("1 2 3 4 5")
